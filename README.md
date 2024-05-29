@@ -1,4 +1,4 @@
-<img width=100% bottom=50px src="https://github.com/ketyllyn Kayane/Ketyllyn Kayane/assets/44561610/33bdfb39-ffe2-4133-8716-8da8c8587e3b"/>
+<img width=100% bottom=50px src="https://github.com/ketySouza"/>
 <br>
 <br> 
 
@@ -9,38 +9,32 @@
 
 <div align="center">
   
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=carolbarbosa101&theme=violet-dark&locale=pt_BR&date_format=n%2Fj%5B%2FY%5D&card_width=900)](https://git.io/streak-stats)
-
 </div>
 
 
 <div align="center"> 
-<a href="https://instagram.com/ketyKayane" target="_blank">
+<a href="https://www.instagram.com/ketykayane?igsh=OWczZjZkcmFuMGIw&utm_source=qr" target="_blank">
 
 </a>
 
 
 <a href="mailto:cmp.1a.ketyllynsouzalima@gmail.com">
 <img align="center"  height="80" width="80" 
-src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/2856fdde-3200-4398-8290-a0e45d3a35a0">
-</a>
 
-<a  href="https://www.linkedin.com/in/ketyllynkayane/" target=_blank>
-<img align="center"  height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/bc26a6f8-f0d3-4f15-82e1-55680c48f269">
-</a>
+<a  href="https://www.linkedin.com/in/ketyllyn-kayane-souza-lima-997250303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target=_blank>
+<img align="center"  height="80" width="80" 
 
 </div>
 
 <div align="center" >
   
-![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/carolbarbosa101?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink) 
 
 </div>
 
 
 ### Main skills:
 <div align="left"> 
-<img align="left" height="84" width="84" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/670ce35c-0b3c-4bec-ba1e-797c40ebcfc6">
+<img align="left" height="84" width="84" src="https://github.com/ketySouza">
 
 <img align="left" height="80" width="80" src="https://github.com/carolbarbosa101/carolbarbosa101/assets/44561610/5d8aa673-1335-459f-a3c8-7149be4296d6">
 
