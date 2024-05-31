@@ -9,7 +9,7 @@ Meu nome é Ketyllyn kayane, sou estudante de engenharia de computação, sou ap
 Siga-me no Instagram ou envie-me um e-mail para mais informações.
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ketykayane?igsh=OWczZjZkcmFuMGIw&utm_source=qr)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ketyllynsouzalima@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:https://mail.google.com/mail/u/0/?hl=pt-BR#inbox)
 
 <p align="center">
   <a href="https://www.instagram.com/ketykayane?igsh=OWczZjZkcmFuMGIw&utm_source=qr">
