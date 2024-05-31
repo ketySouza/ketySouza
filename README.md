@@ -20,10 +20,7 @@ Siga-me no Instagram ou envie-me um e-mail para mais informações.
   </a>
 </p>
 
----
 
-## ![Purple](https://via.placeholder.com/15/800080/800080.png) Licença
-Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 
 
 
