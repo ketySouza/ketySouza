@@ -8,11 +8,11 @@ Meu nome é Ketyllyn kayane, sou estudante de engenharia de computação, sou ap
 
 Siga-me no Instagram ou envie-me um e-mail para mais informações.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/seu_perfil)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seu_email@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ketykayane?igsh=OWczZjZkcmFuMGIw&utm_source=qr)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ketyllynsouzalima@gmail.com)
 
 <p align="center">
-  <a href="https://instagram.com/ketykayane">
+  <a href="https://www.instagram.com/ketykayane?igsh=OWczZjZkcmFuMGIw&utm_source=qr">
     <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Instagram" width="50" height="50"/>
   </a>
   <a href="mailto:ketyllynsouzalima@gmail.com">
