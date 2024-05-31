@@ -15,7 +15,7 @@ Siga-me no Instagram ou envie-me um e-mail para mais informações.
   <a href="https://www.instagram.com/ketykayane?igsh=OWczZjZkcmFuMGIw&utm_source=qr">
     <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Instagram" width="50" height="50"/>
   </a>
-  <a href="mailto:ketyllynsouzalima@gmail.com">
+  <a href="mailto:https://mail.google.com/mail/u/0/?hl=pt-BR#inbox">
     <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Gmail" width="50" height="50"/>
   </a>
 </p>
