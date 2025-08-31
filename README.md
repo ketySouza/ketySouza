@@ -1,21 +1,20 @@
-# (https://via.placeholder.com/15/800080/800080.png) Ketyllyn Kayane
-
-##(https://via.placeholder.com/15/800080/800080.png) Introdução
-#Olá! Meu nome é Ketyllyn kayane, 
-Sou estudante de engenharia de computação, sou apaixonada em tecnologia.
----
-
-Siga-me no Instagram ou envie-me um e-mail para mais informações.
-gmail:ketyllynsouzalima@gmail.com
-
-
-
+<h1 align="center">Olá! 👋 Eu sou Ketylllyn Kayane</h1>
 
 <p align="center">
-  </a>
-  <a href="mailto:ketyllynsouzalima@gmail.com">
-    <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Gmail" width="50" height="50"/>
-  </a>
+Estudante de Engenharia de Computação, apaixonada por tecnologia, com interesse em Inteligência Artificial e Segurança Digital.
+</p>
+
+---
+
+### 🚀 Sobre mim
+- 🎓 Estudante de Engenharia de Computação (4º semestre)  
+- 💻 Interessada em **Cibersegurança, IA,(VFX) e Desenvolvimento de Sistemas** 
+
+---
+
+### 📫 Contato
+<p align="center">
+  <a href="mailto:ketylllynsouzalima@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 
