@@ -14,8 +14,6 @@ gmail:ketyllynsouzalima@gmail.com
 
 
 <p align="center">
-  <a href="https://www.instagram.com/ketykayane?igsh=OWczZjZkcmFuMGIw&utm_source=qr">
-    <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Instagram" width="50" height="50"/>
   </a>
   <a href="mailto:ketyllynsouzalima@gmail.com">
     <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" alt="Gmail" width="50" height="50"/>
