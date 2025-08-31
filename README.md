@@ -9,7 +9,7 @@ Meu nome é Ketyllyn kayane, sou estudante de engenharia de computação, sou ap
 Siga-me no Instagram ou envie-me um e-mail para mais informações.
 gmail:ketyllynsouzalima@gmail.com
 
-[![linkedln](www.linkedin.com/in/ketyllyn-kayane-de-souza-lima-a8b481325)
+
 
 
 <p align="center">
