@@ -1,11 +1,9 @@
-# ![Purple](https://via.placeholder.com/15/800080/800080.png) Ketyllyn Kayane
+# (https://via.placeholder.com/15/800080/800080.png) Ketyllyn Kayane
 
-## ![Purple](https://via.placeholder.com/15/800080/800080.png) Introdução
+##(https://via.placeholder.com/15/800080/800080.png) Introdução
 #Olá! Meu nome é Ketyllyn kayane, 
 Sou estudante de engenharia de computação, sou apaixonada em tecnologia.
 ---
-
-## ![Purple](https://via.placeholder.com/15/800080/800080.png) Contato
 
 Siga-me no Instagram ou envie-me um e-mail para mais informações.
 gmail:ketyllynsouzalima@gmail.com
